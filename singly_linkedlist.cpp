@@ -5,4 +5,5 @@ class node
 {
 public:
     int noMhs;
+    Node *next;
 }
